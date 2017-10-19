@@ -1,4 +1,4 @@
-# Time_Series_Forecast
+# Time Series Forecast
 Uses time series decomposition to find trends, and Amira to forecast
 
 ############################### Time Series Decomp & Forecast #########################################
